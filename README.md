@@ -1,2 +1,2 @@
-# blog_tryhackme
+# Blog_TryHackMe
 Dans ce dépôt
